@@ -1,4 +1,4 @@
-list of three students named Jon, Kim and Lee 
+#list of three students named Jon, Kim and Lee 
 students = ["Jon", "Kim", "Lee"]
 # Add Sara and Miko to the list
 students.append("Sara")
