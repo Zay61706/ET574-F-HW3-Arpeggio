@@ -10,7 +10,9 @@ def greet_students(students):
         print(f"Hi {student}")
     print(f"Total number of students: {len(students)}")
 
+# change Jon to John
+students[0] = 'John'
+
 # Call the function
 greet_students(students)
-# change Jon to John
-students[1] = 'John'
+ 
