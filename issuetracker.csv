@@ -1,1 +1,9 @@
 ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+task,b4d8700,Open,Initial commit,,Isiah,28-sept,18-sept,,
+issue,ebdb07a,closed,Commit Reminder,Yi jun, Isiah ,28-sept,18-sept,,
+task,d0f3923,open,Task D,,Diego,28-sept,20-sept,,
+task,954c60c,open,Task A-C,,Isiah,28-sept,21-sept,,
+task,93af156,open,Issue Tracker Made,,Isiah,28-sept,21-sept,,
+issue,fb4cd13,open,Task A-C fixed,Isiah,Isiah,28-sept,21-sept,,
+task,8622242,open,Task D,,Diego,28-sept,27-sept,,
+issue,97c8ee3,closed,issue tracker format,Yi Jun,Isiah,28-sept,28-sept
